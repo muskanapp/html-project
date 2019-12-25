@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.header {
+	text-align: center;
+	justify-content: center;
+	height: 100px;
+}
+.mainhead {
+	padding-top: 13px;
+	font-size: 3em;
+	font-family: 'Girassol', cursive;
+	color: rgb(6, 40, 79);
+}
+.subhead {
+	font-size: 1em;
+	font-family: 'Inria Serif', serif;
+	color: rgb(7, 83, 176);
+    
+}
+p {
+	font-family: 'Girassol', cursive;
+	color: black;
+}
